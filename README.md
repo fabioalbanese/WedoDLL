@@ -21,7 +21,7 @@ myDistance=myWedo.GetDistance
 
 The software is given "as it is" for fun, without any responsibility from author.
 
-FOr comments and suggestion, please use the contact module in my website: http://www.fabioalbanese.it
+For comments and suggestions, please use the contact module in my website: http://www.fabioalbanese.it
 
 Have fun!
 
